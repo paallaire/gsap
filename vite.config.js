@@ -7,7 +7,7 @@ export default defineConfig({
     outDir: 'docs'
   },
   plugins: [react()],
-  base: '/paallaire.github.io/gsap'
+  base: '//paallaire.github.io/gsap'
 })
 
 // https://paallaire.github.io/gsap/assets/index-def32344.js
